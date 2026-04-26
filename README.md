@@ -27,3 +27,4 @@ pip install -r requirements.txt
 - `tests/` — Unit tests
 - `scripts/` — Utility scripts
 - `.github/workflows/` — CI/CD pipelines
+# climate-challenge-week0
